@@ -58,6 +58,8 @@ The objective of this project is to build a predictive model capable of identify
 
 # Exploratory Data Analysis
 
+![Target distribution](images/Target%20distribution%20plot.png)
+
 Several borrower characteristics exhibited strong relationships with default risk.
 
 ## Home Ownership
@@ -110,7 +112,6 @@ Default rates increased dramatically as loan grade deteriorated.
 | F | Extremely High |
 | G | Highest |
  
-![Target distribution](images/Target%20distribution%20plot.png)
 
 ![Correlation heatmap](images/Correlation%20heatmap.png)
 ---
